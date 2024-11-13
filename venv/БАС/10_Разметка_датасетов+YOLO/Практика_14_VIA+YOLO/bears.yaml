@@ -1,0 +1,10 @@
+# YOLOv5 🚀 by Ultralytics, GPL-3.0 license
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: C://Full/path/to/data # data - корневая директория проетка, содержит сам скрипт, этот файл и директории images и labels (см. струкутру проекта в ноутбуке)
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+test:  # test images (не обязательно)
+
+# Classes
+names:
+  0: bear # свои названия класса (классов, каждый новый - с новой строки под индексами 0, 1, 2...)
