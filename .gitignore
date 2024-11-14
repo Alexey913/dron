@@ -4,11 +4,11 @@ venv/lib/
 venv/lib64
 venv/pyvenv.cfg
 venv/share/
-*.png
-*.jpg
-*.JPG
-*.JPEG
-*.jpeg
-*.mp4
+#*.png
+#*.jpg
+#*.JPG
+#*.JPEG
+#*.jpeg
+#*.mp4
 /venv/БАС/00_ДЗ/ДЗ_9_Практика_Свод/01_Задание_1/frames
 *.ipynb_checkpoints
